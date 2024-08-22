@@ -1,0 +1,1 @@
+I'm sure that for people who have been using git extensively this is second nature, however, having used other software tools that allow for significantly more fluid and easily navigable history and version control functions this will certainly take getting used to.
